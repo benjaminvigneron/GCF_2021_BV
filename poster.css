@@ -44,7 +44,6 @@ b {
     justify-content: space-between;
   }
   body > header {
-    width: 100vw;
     grid-template-columns:auto 1fr auto;
   }
   main {
